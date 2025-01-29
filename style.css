@@ -29,6 +29,7 @@ body {
     padding: 80px 20px;
     background-color: #002147;
     color: white;
+
 /* Barre de navigation */
 .navbar {
     background-color: #001a33;
@@ -73,6 +74,7 @@ body {
         text-align: center;
     }
 }
+
 
 
 /* Section Titles */
