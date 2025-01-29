@@ -1,3 +1,1 @@
-# Madarahaidara.github.io
-
-my name is compaore haidara and this is my portfolio where i explain all my computer science and network skills, 
+Salut, je suis compaoré haidara et j'ai réalisé ce portfolio afin d'exposer mes qualités dans le domaine de la tech.
